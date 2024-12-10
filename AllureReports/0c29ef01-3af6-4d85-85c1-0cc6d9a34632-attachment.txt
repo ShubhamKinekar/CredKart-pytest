@@ -1,0 +1,22 @@
+[32mINFO    [0m root:test_CredKart_CheckOut_006.py:29 Testcase test_CheckOut_008 is started
+[32mINFO    [0m root:test_CredKart_CheckOut_006.py:31 Opening Browser
+[32mINFO    [0m root:test_CredKart_CheckOut_006.py:34 Going to CredKart URL ->https://automation.credence.in/login
+[32mINFO    [0m root:test_CredKart_CheckOut_006.py:35 Entering email :Credencetest@test.com
+[32mINFO    [0m root:test_CredKart_CheckOut_006.py:38 Entering password :Credence@123
+[32mINFO    [0m root:test_CredKart_CheckOut_006.py:40 Clicking Login button
+[32mINFO    [0m root:test_CredKart_CheckOut_006.py:42 Click on Mac book pro
+[32mINFO    [0m root:test_CredKart_CheckOut_006.py:43 Click on add to cart
+[32mINFO    [0m root:test_CredKart_CheckOut_006.py:44 Click on proceed to checkout
+[32mINFO    [0m root:test_CredKart_CheckOut_006.py:46  Enter First name
+[32mINFO    [0m root:test_CredKart_CheckOut_006.py:48  Enter Last name
+[32mINFO    [0m root:test_CredKart_CheckOut_006.py:50  Enter Phone
+[32mINFO    [0m root:test_CredKart_CheckOut_006.py:52  Enter Address
+[32mINFO    [0m root:test_CredKart_CheckOut_006.py:54  Enter Zipcode
+[32mINFO    [0m root:test_CredKart_CheckOut_006.py:56  Select State
+[32mINFO    [0m root:test_CredKart_CheckOut_006.py:58  Enter Owner
+[32mINFO    [0m root:test_CredKart_CheckOut_006.py:60  Enter CVV
+[32mINFO    [0m root:test_CredKart_CheckOut_006.py:62  Enter Card Number
+[32mINFO    [0m root:test_CredKart_CheckOut_006.py:67  Select Year
+[32mINFO    [0m root:test_CredKart_CheckOut_006.py:69  Select Month
+[32mINFO    [0m root:test_CredKart_CheckOut_006.py:71 Click on checkout
+[32mINFO    [0m root:test_CredKart_CheckOut_006.py:73 Verifying success message
