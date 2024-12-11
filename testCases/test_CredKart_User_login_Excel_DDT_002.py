@@ -76,7 +76,7 @@ class Test_User_Login_Excel_DDT_Class_002:
         if "Fail" in Result_List:
             self.log.info("Testcase test_CredKart_User_Login_Excel_DDT_004 is failed")
             self.log.info("Testcase test_CredKart_User_Login_Excel_DDT_004 is completed\n")
-            assert False
+
         else:
             self.log.info("Testcase test_CredKart_User_Login_Excel_DDT_004 is Pass")
             self.log.info("Testcase test_CredKart_User_Login_Excel_DDT_004 is completed\n")

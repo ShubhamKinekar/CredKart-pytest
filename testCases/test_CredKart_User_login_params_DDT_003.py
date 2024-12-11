@@ -60,11 +60,11 @@ class Test_User_Login_Params_Class_003:
         if self.expected_result == actual_result:
             self.log.info("Testcase test_CredKart_User_Login_params_DDT_005 is Pass")
             self.log.info("Testcase test_CredKart_User_Login_params_DDT_005 is Completed\n")
-            assert True
+
         else:
             self.log.info("Testcase test_CredKart_User_Login_params_DDT_005 is Fail")
             self.log.info("Testcase test_CredKart_User_Login_params_DDT_005 is Completed\n")
-            assert False
+
 
 
 

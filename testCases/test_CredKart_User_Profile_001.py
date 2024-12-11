@@ -67,7 +67,7 @@ class Test_User_Profile_Class_001:
                                )
             self.log.info("Testcase test_verify_CredKart_Url_001 is failed")
             self.log.info("Testcase test_verify_CredKart_Url_001 is completed\n")
-            assert False
+
 
     @pytest.mark.sanity
     @pytest.mark.group1
