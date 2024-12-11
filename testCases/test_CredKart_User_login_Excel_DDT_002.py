@@ -14,7 +14,6 @@ class Test_User_Login_Excel_DDT_Class_002:
     # Initializing the logger, called loggen_method from loggenerator class in utitlties folder
     log = log_generator_class.loggen_method()
     # Initializing the driver
-    driver = None
 
     Excel_File_Path = ".\\TestData\\Test_Data.xlsx"
     #Excel_File_Path = r'D:\Batch Notes\PythonAutomation\CT20\Credkart_Pytest_Dec\TestData\Test_Data.xlsx'
